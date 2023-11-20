@@ -5,7 +5,7 @@
 I'm Oleksii M, a passionate and versatile Full Stack and Blockchain Developer with a strong commitment to delivering high-quality software solutions. With a proven track record of successfully completing diverse projects, I bring a wealth of experience to the table. My dedication to continuous learning and staying updated on the latest technologies ensures that I can provide cutting-edge solutions to my clients.
 
 💼 Services Offered:
-🚀 Full Stack Web Development: I create dynamic and responsive web applications, from concept to deployment, using a wide range of technologies including JavaScript, React, Node.js, and Python.
+🚀 Full Stack Web Development: I create dynamic and responsive web applications, from concept to deployment, using a wide range of technologies including React, Vue.js, Node.js, Laravel and Python.
 🔐 Blockchain Development: I specialize in blockchain development, offering expertise in creating smart contracts, decentralized applications (DApps), and integrating blockchain solutions into various industries.
 🔒 Security and Smart Contracts: Ensuring the security of your blockchain projects is my top priority. I implement robust security measures and smart contracts that stand up to rigorous testing.
 
