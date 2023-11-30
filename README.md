@@ -1,27 +1,23 @@
+🎮 2D , 3D Web and Game Developer | 🌐 Blockchain & Web , Mobile-Based Games | 🚀 React, React native, Unity, Three.js, Phaser, Pixi, Cocos2D HTML5 canvas
 
-🌟 Full Stack & Blockchain Developer 🌟
+This is Oleksii, a passionate Full-Stack and Blockchain Game Developer specializing in Blockchain, Web-based, and interactive experiences. As an experienced developer with a deep understanding of React, React Native, Node.js, TypeScript, Solidity and various Web and Mobile game engines with over 5 years of experience, I strongly believe that I would be an asset to your team. 
 
-🔗 About Me:
-I'm Oleksii M, a passionate and versatile Full Stack and Blockchain Developer with a strong commitment to delivering high-quality software solutions. With a proven track record of successfully completing diverse projects, I bring a wealth of experience to the table. My dedication to continuous learning and staying updated on the latest technologies ensures that I can provide cutting-edge solutions to my clients.
+My expertise in React and React Native includes proficiency in Redux for state management, React Router for navigation, and React Hooks for functional components. I have worked on several React Native projects, using Expo, React Native CLI and custom native modules for Android and iOS platforms.
 
-💼 Services Offered:
-🚀 Full Stack Web Development: I create dynamic and responsive web applications, from concept to deployment, using a wide range of technologies including React, Vue.js, Node.js, Laravel and Python.
-🔐 Blockchain Development: I specialize in blockchain development, offering expertise in creating smart contracts, decentralized applications (DApps), and integrating blockchain solutions into various industries.
-🔒 Security and Smart Contracts: Ensuring the security of your blockchain projects is my top priority. I implement robust security measures and smart contracts that stand up to rigorous testing.
+In terms of Node.js development, I have hands-on experience in developing and deploying APIs using Node.js and Express.js. I have used various databases, including MongoDB, PostgreSQL, and MySQL, and have integrated them with RESTful APIs. Furthermore, I have experience using tools such as AWS (EC2, S3, Lambda), Docker and Kubernetes to deploy Node.js services in production. 
 
-📈 What Sets Me Apart:
-🎯 Tailored Solutions: I take the time to understand your unique requirements and provide solutions that are tailored to your specific needs.
-🔍 Problem Solving: My problem-solving skills, combined with in-depth technical knowledge, enable me to overcome even the most complex challenges.
-💬 Clear Communication: I believe in transparent and effective communication to ensure we are always on the same page throughout the project.
+I also have significant experience working with TypeScript. I have developed scalable and maintainable applications using TypeScript based frameworks such as Next.js and NestJS, which provide robust type checking, easy refactoring, and better code organization. 
 
-💻 Technology Stack:
+As a blockchain game developer, I harness the power of decentralized technology, enabling players to truly own and trade in-game assets. From designing unique gameplay mechanics to implementing smart contracts, I explore the endless potential of blockchain to create innovative and transparent gaming ecosystems.
 
-Front-end: React, Vue.js, Angular
-Back-end: Node.js, Python, Laravel
-Databases: MySQL, MongoDB, PostgreSQL
-Blockchain: Ethereum, Binance Smart Chain, Solidity
-DevOps: Docker, Kubernetes, CI/CD
-Version Control: Git
+In addition, I specialize in mobile game development, utilizing platforms such as Unity to create engaging experiences for smartphones and tablets. From addictive casual games to immersive multiplayer adventures, I bring the excitement of gaming to players on the go, ensuring a seamless and enjoyable mobile experience.
 
-📬 Let's Collaborate:
-I'm excited to work with clients who are as passionate about their projects as I am. Whether you have a full-stack web development project in mind or need assistance with blockchain integration, I'm here to help. Let's bring your ideas to life and create innovative, secure, and user-friendly solutions together.
+Equally adept in web-based game development, I leverage my expertise in technologies such as Three.js, Phaser, Pixi, and Cocos2D HTML5 canvas to craft captivating games that can be enjoyed directly in web browsers. From 2D side-scrollers to interactive 3D experiences, I bring joy and entertainment to players worldwide using these powerful frameworks.
+
+In addition, my proficiency in Solidity allows me to develop custom smart contracts that meet the specific requirements of different use cases. I have extensive experience in developing and deploying smart contracts on Ethereum, including ERC20 and ERC721 tokens, and integrating them with web3.js and other Ethereum development tools such as Truffle, Hardhat and Remix. 
+
+As a full-stack developer, I have experience working with HTML, CSS, and JavaScript, including popular libraries such as jQuery, Lodash, and Bootstrap. I have also worked extensively with Git, using  Git workflows such as git-flow and GitHub Actions for Continuous Integration and Deployment. 
+
+I am passionate about building high-quality software, staying up-to-date with the latest trends and best practices in software development, and sharing my knowledge with others through blogs and open-source contributions. 
+
+Let's create exciting worlds together, where players can embark on unforgettable adventures! Feel free to reach out to me for collaboration or to discuss your add development needs.
